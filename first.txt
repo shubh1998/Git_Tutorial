@@ -1,3 +1,0 @@
-This is first.txt file content !
-
-Hello Git Learners !
