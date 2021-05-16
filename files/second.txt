@@ -1,2 +1,4 @@
 this is tracked file.
 Hello
+
+Hello I am developer. Learning git now.
